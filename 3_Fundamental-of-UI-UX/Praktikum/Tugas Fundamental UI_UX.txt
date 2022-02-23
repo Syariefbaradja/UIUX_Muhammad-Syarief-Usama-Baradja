@@ -1,0 +1,24 @@
+﻿Tugas : 
+Cari beberapa contoh interface dan coba identifikasi siapa user nya ? 
+
+
+
+
+1. Truck Rental 
+Disini saya menggunakan studi kasus Aplikasi Truck Rental yang saya temukan di Behance. Untuk usernya sendiri setelah saya baca2 objektifnya yang yakni adalah menawarkan jasa penyewaan truk yg bertempat di bangladeseh agar dapat memindahkan dengan barang dengan efisien dan menyewa truk kapan saja dengan mudah. Terdapat banyak varian truk seperti van tertutup, pickup, dan lain-lain. 
+* Siapa user nya ? 
+1. Orang yang ingin memindahkan barang 
+2. Orang yang baru menikah 
+3. Korporasi perusahaan 
+4. Pihak third party logistics 
+5. Admin Truck Rental 
+
+
+    2.Best Plant App 
+Disini saya menemukan aplikasi Best Plant App, dimana aplikasi ini dapat membantu menyalurkan penjual tanaman dan Pembeli tanaman. 
+* Siapa user nya ? 
+1. Orang yang hobi tanaman 
+2. Orang yang sedang mencari tanaman 
+3. Wedding organizer 
+4. Startup tanaman 
+5. Penjual tanaman
