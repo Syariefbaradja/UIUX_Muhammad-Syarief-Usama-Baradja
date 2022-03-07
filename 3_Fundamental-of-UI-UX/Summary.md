@@ -1,5 +1,5 @@
 <h1>Resume Materi Git</h1>
-Pada section 2 ini saya belajar :
+Pada section 3 ini saya belajar :
 * Pengertian dari UI/UX itu sendiri yang artinya sendiri adalah suatu pekerjaan pembuatan aplikasi untuk memudahkan pengguna mencapai tujuannya 
 *Dimana saya belajar Perbedaan antara User Interface dan User Experience 
 *Lalu saya dapat mengetahui ranah kerja dari UI/UX designer yang ada : 
